@@ -7,7 +7,6 @@ import time
 
 class MovieLensLoader:
     def __init__(self):
-        # Your Google Drive file IDs
         self.ratings_file_id = "1eRSTmyYGucnToFuah2G_JV10fd4wZhxv"
         self.movies_file_id = "1M7Hx1nSH7F4Ik-lqq0hb_nl-deEzl4H3"
         
